@@ -8,3 +8,6 @@ def map_to_negativize(array)
      i += -1
    end
   negative_arr 
+  
+  
+  
