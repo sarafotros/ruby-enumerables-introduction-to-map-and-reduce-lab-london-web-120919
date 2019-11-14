@@ -1,3 +1,4 @@
+
 # My Code here....
 def map_to_negativize(array)
   array = [1, 2, 3, -9]
@@ -9,5 +10,10 @@ def map_to_negativize(array)
    end
   negative_arr 
   
+end
+
+def no_change (dune)
+dune = ["paul", "gurney", "vladimir", "jessica", "chani"]
+
   
   
